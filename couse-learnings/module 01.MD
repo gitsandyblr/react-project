@@ -1,4 +1,5 @@
-# Module 1 gives highlevel overview of different Javascript frameworks/libraries and about the course structure
+# Module 1 
+gives highlevel overview of different Javascript frameworks/libraries and about the course structure
 
 ## React
 ### Different elements in React 
@@ -14,8 +15,8 @@ To compile React code we need to use a preprocessor which converts jsx into js c
 ### Angular, React and Vue.js are the popular libraries currently - abstracts on implementation and focuses on logic.
 ### JQuery focuses more on implementation - is more oriented towards DOM structure and depends on the elements on DOM.
 
-##SPA and Multipage applications
-###SPA - Single Page Applications 
+## SPA and Multipage applications
+### SPA - Single Page Applications 
 	- only one HTML page, content is rendered on client (Popular approach)
 	- All components are react components. Even the root component is React component.
 	- Tupically one ReactDom.render() call
