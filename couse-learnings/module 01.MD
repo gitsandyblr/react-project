@@ -12,8 +12,9 @@ To compile React code we need to use a preprocessor which converts jsx into js c
 
 
 ## Different frameworks/libraries - 
-### Angular, React and Vue.js are the popular libraries currently - abstracts on implementation and focuses on logic.
-### JQuery focuses more on implementation - is more oriented towards DOM structure and depends on the elements on DOM.
+Angular, React and Vue.js are the popular libraries currently - abstracts on implementation and focuses on logic.
+
+JQuery focuses more on implementation - is more oriented towards DOM structure and depends on the elements on DOM.
 
 ## SPA and Multipage applications
 ### SPA - Single Page Applications 
