@@ -1,0 +1,3 @@
+[submodule "sandeep-react-project/sandeep-react-project/monster-rolodex-app"]
+	path = sandeep-react-project/sandeep-react-project/monster-rolodex-app
+	url = git@github.com:gitsandyblr/react-project.git
